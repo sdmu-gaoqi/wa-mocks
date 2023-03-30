@@ -1,5 +1,5 @@
-import demoJson from './demo.json'
-import LoginJson from './login.json'
+import demoJson from "./demo.json";
+import LoginJson from "./login.json";
 
 export default {
   "demo-api": demoJson,
